@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3153
     wikipedia: http://en.wikipedia.org/wiki/Albert_Mathiez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29823#Le-carnet-de-Robespierre--septembre-d-cembre-1793-
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2009-08-28'
 gutenberg_type: Text
