@@ -1,0 +1,37 @@
+_repo: Le-carnet-de-Robespierre--septembre-d-cembre-1793-_29823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robespierre, Maximilien
+    alias: Robespierre, Maximilien Marie Isidore de
+    birthdate: 1758
+    deathdate: 1794
+    gutenberg_agent_id: '34151'
+    url: http://www.gutenberg.org/2009/agents/34151
+    wikipedia: http://fr.wikipedia.org/wiki/Maximilien_Robespierre
+  editor:
+    agent_name: Mathiez, Albert
+    alias: Matthiez, Albert
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '3153'
+    url: http://www.gutenberg.org/2009/agents/3153
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Mathiez
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2009-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29823'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Sources'
+- !lcc 'DC'
+title: Le carnet de Robespierre (septembre-décembre 1793)
+url: http://www.gutenberg.org/ebooks/29823
